@@ -1,4 +1,5 @@
 """
+# Dong nay de test
 x="Oc cho" #Ghi chu 1 dong
 print(x)
 print(type(x))
