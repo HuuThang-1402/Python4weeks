@@ -1,0 +1,6 @@
+sp1;cocacola;18.5
+sp2;sprite;20.0
+sp3;pepsi;19.1
+sp4;mirinda;15.2
+sp5;sodakem;12.1
+sp6;lap;20000.21

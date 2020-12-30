@@ -1,0 +1,5 @@
+BOOK1;Nhung cau do o xu Canterbury;2000
+BOOK2;Lam chu Python trong 4 tuan;2018
+BOOK3;From Zero to Hero Python;2018
+BOOK4;Machine Learning;2017
+BOOK5;Deep Learning;2017
